@@ -1,0 +1,5 @@
+var age = 17;
+var favnum = 10;
+var Date = 12;
+
+print age;
