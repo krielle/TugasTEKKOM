@@ -1,0 +1,26 @@
+int a = 11;
+str name = "Feb";
+bool isMale = True;
+int num = 10 * 10 + 10;
+str full_name = name + " " + name;
+str gang;
+
+(** Adding a comment in tachyon **)
+
+for int x = 0 :: > 10 :: + 1 {
+    print "Hi";
+}
+
+if a == 11 {
+	print "Perfect";
+	if name != "Feb" {
+		print "Not good";
+	}
+}
+
+
+
+
+
+
+
